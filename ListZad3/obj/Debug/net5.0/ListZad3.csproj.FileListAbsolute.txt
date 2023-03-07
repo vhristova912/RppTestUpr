@@ -1,0 +1,15 @@
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\bin\Debug\net5.0\ListZad3.exe
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\bin\Debug\net5.0\ListZad3.deps.json
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\bin\Debug\net5.0\ListZad3.runtimeconfig.json
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\bin\Debug\net5.0\ListZad3.runtimeconfig.dev.json
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\bin\Debug\net5.0\ListZad3.dll
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\bin\Debug\net5.0\ref\ListZad3.dll
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\bin\Debug\net5.0\ListZad3.pdb
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\obj\Debug\net5.0\ListZad3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\obj\Debug\net5.0\ListZad3.AssemblyInfoInputs.cache
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\obj\Debug\net5.0\ListZad3.AssemblyInfo.cs
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\obj\Debug\net5.0\ListZad3.csproj.CoreCompileInputs.cache
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\obj\Debug\net5.0\ListZad3.dll
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\obj\Debug\net5.0\ref\ListZad3.dll
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\obj\Debug\net5.0\ListZad3.pdb
+D:\Visual Studio-zadachi\11 klas\ProgramiraneKlasnata\masiviAndListsUpr\ListZad3\obj\Debug\net5.0\ListZad3.genruntimeconfig.cache
